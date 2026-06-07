@@ -1,0 +1,2 @@
+# -Semantic-Search-Engine-using-Sentence-Transformers
+This project demonstrates how modern AI systems understand the meaning behind text rather than relying on simple keyword matching.Using Sentence Transformers, user queries and movie descriptions are converted into dense vector embeddings. Cosine similarity is then used to identify the most semantically relevant results.Deployed Streamlit interface.
